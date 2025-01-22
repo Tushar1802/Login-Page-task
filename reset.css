@@ -66,11 +66,8 @@ body{
   input {
     border-color: #ffffff;
     border-radius: 5px;
-   
-    
     padding: 10px;
     margin-bottom: 20px;
-
     background-color: #393B54;
     color: #e0e1dd;
     font-size: 1rem;
@@ -84,7 +81,6 @@ body{
   }
   
   .button {
-  
    width: 350px;
     padding: 10px 20px;
     font-size: 1rem;
@@ -93,10 +89,7 @@ body{
     border-radius: 50px;
     background-color: #2930f0;
     color: #e0e1dd;
-   font-weight: bold;
-
-    
-   
+   font-weight: bold; 
   }
   
   .button:hover {
